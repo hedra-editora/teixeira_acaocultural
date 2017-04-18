@@ -1549,7 +1549,7 @@ Casterman, 1981.
 • Owen Kelly, *Community, Art and the State: Storming the Citadels*, 
 Londres, Comedia, 1984;
 
-# Sobre o autor
+**Sobre o autor**
 
 Teixeira Coelho (1944) é professor titular da Universidade de São Paulo (Escola de Comunicações e
 Artes), onde coordena um Curso de Espedalização
@@ -1559,9 +1559,7 @@ além de *Uma Outra Cena* (Polis), *O Sonho de Havana*
 (Max Limonad), *Moderno Pós-Moderno* (L&PM), *Usos da Cultura (Políticas de Ação Cultural)* (Paz e Terra) e
 do romance *Fliperama sem Creme* (Brasiliense).
 
-***
-
-#Caro leitor:
+**Caro leitor**:
 
 As opiniões expressas neste livro são as do autor,
 podem não ser as suas. Caso você ache que vale a
